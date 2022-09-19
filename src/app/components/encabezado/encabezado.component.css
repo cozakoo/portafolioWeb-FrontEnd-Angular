@@ -1,0 +1,25 @@
+.Menu {
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    background: linear-gradient(160deg, #7aa4aa 20%, #7aa4aa);
+    width: 100%;
+  }
+  
+  .Menu a {
+    font-weight: 600;
+  }
+  
+  .Menu a:hover {
+    color: #ffffffb7;
+  }
+  
+  #logoMenu {
+    margin-right: 1%;
+    transition: 0.5s;
+  }
+  
+  #logoMenu:hover {
+    transform: scale(1.3);
+  }
+  

@@ -1,0 +1,50 @@
+.parrafo {
+    /* Arriba | Derecha | Abajo | Izquierda */
+    margin: 10% auto 10% auto;
+    padding: 20px 20px;
+    background-color: #c0dab8;
+    box-shadow: 1px 5px 25px rgba(0, 0, 0, 0.45);
+    /* BORDES */
+    border-radius: 5px;
+    border: 2px dashed #100f0f;
+    position: relative;
+    max-width: 60%;
+  }
+  
+  .imagenTarjeta {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  
+  .cuerpoTarjeta h1 {
+    font-family: "GFS Didot", serif;
+    color: #000000;
+    text-align: center;
+    /* EFECTO SOMBRA NO ME LO TOMA */
+    box-shadow: 1px 5px 25px rgba(0, 0, 0, 0.45);
+  }
+  
+  .cuerpoTarjeta h5 {
+    font-size: 110%;
+    color: #272727;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .cuerpoTarjeta p {
+    font-family: "Tiro Devanagari Hindi", serif;
+    color: #000000;
+    margin-left: 5%;
+  }
+  
+  .cuerpoTarjeta #form_pregunta {
+    font-weight: 600;
+    margin-bottom: 1%;
+  }
+  
+  .cuerpoTarjeta #form_respuesta {
+    margin-left: 60px;
+    margin-bottom: 1%;
+    font-style: italic;
+  }
+  

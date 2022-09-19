@@ -1,0 +1,18 @@
+.cardEducacion,
+.cardExperiencia {
+  max-width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  box-shadow: 1px 5px 25px rgba(0, 0, 0, 0.45);
+}
+
+.logoEducaciones {
+  width: 6%;
+  margin-right: 1%;
+}
+
+.title {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: "Oleo Script", cursive;
+  }
